@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C1DE0507-15BD-430F-BA13-8A95A062BF1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReleaseRetention PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReleaseRetentionEnvironments.cs">
+    <Files>
+      <File FileName="ReleaseRetentionRelease.cs" />
+      <File FileName="ReleaseRetentionProjects.cs" />
+      <File FileName="ReleaseRetentionEnvironments.cs" Line="7" Column="1" />
+      <File FileName="../UnitTest/UnitTest.cs" Line="3" Column="1" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReleaseRetention" expanded="True">
+            <Node name="UnitTest" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

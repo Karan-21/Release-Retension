@@ -1,0 +1,5 @@
+D:\karan gupta\ReleaseRetention\obj\Debug\net5.0\ReleaseRetention.csproj.AssemblyReference.cache
+D:\karan gupta\ReleaseRetention\obj\Debug\net5.0\ReleaseRetention.GeneratedMSBuildEditorConfig.editorconfig
+D:\karan gupta\ReleaseRetention\obj\Debug\net5.0\ReleaseRetention.AssemblyInfoInputs.cache
+D:\karan gupta\ReleaseRetention\obj\Debug\net5.0\ReleaseRetention.AssemblyInfo.cs
+D:\karan gupta\ReleaseRetention\obj\Debug\net5.0\ReleaseRetention.csproj.CoreCompileInputs.cache

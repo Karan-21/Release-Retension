@@ -1,0 +1,72 @@
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.deps.json
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.runtimeconfig.json
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.dll
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.pdb
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/JObject.dll
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.AssemblyReference.cache
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfoInputs.cache
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfo.cs
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CoreCompileInputs.cache
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CopyComplete
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.dll
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/refint/ReleaseRetention.dll
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.pdb
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.genruntimeconfig.cache
+/Users/karangupta/Desktop/OctoNew/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ref/ReleaseRetention.dll
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.exe
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.deps.json
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.runtimeconfig.json
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.dll
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.pdb
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/JObject.dll
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/bin/Debug/net7.0/Newtonsoft.Json.dll
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.AssemblyReference.cache
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.GeneratedMSBuildEditorConfig.editorconfig
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfoInputs.cache
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfo.cs
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CoreCompileInputs.cache
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CopyComplete
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.dll
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/refint/ReleaseRetention.dll
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.pdb
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.genruntimeconfig.cache
+D:/karan gupta/ReleaseRetentionUpdated/ReleaseRetentionNEW/ReleaseRetention/obj/Debug/net7.0/ref/ReleaseRetention.dll
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.deps.json
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.runtimeconfig.json
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.dll
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.pdb
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/bin/Debug/net7.0/JObject.dll
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.AssemblyReference.cache
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfoInputs.cache
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfo.cs
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CoreCompileInputs.cache
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CopyComplete
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.dll
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/refint/ReleaseRetention.dll
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.pdb
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.genruntimeconfig.cache
+/Users/karangupta/Desktop/OctoDONE/ReleaseRetentionDONE/ReleaseRetention/obj/Debug/net7.0/ref/ReleaseRetention.dll
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.deps.json
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.runtimeconfig.json
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.dll
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/bin/Debug/net7.0/ReleaseRetention.pdb
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/bin/Debug/net7.0/JObject.dll
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.AssemblyReference.cache
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfoInputs.cache
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.AssemblyInfo.cs
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CoreCompileInputs.cache
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.csproj.CopyComplete
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.dll
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/refint/ReleaseRetention.dll
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.pdb
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ReleaseRetention.genruntimeconfig.cache
+/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/obj/Debug/net7.0/ref/ReleaseRetention.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSqYoA+ZNMRebFm2i2x2iYmLfml5q0hupDewxswKGhwwMZQU1YF6nVhQsB6cqZJh4TfLWqg4oFPjqH8/3e3A4w==",
+  "success": true,
+  "projectFilePath": "/Users/karangupta/Desktop/FINAL PROJECTS/Release-Retension/ReleaseRetention/ReleaseRetention.csproj",
+  "expectedPackageFiles": [
+    "/Users/karangupta/.nuget/packages/jobject/1.0.0/jobject.1.0.0.nupkg.sha512",
+    "/Users/karangupta/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
